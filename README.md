@@ -24,10 +24,8 @@ We are building a **website using Python** where we will present the collected d
 - **Matplotlib / Plotly** (for data visualization)  
 - **HTML & CSS** (for the website structure and style)  
 
----
-
-## 🚀 How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/e-waste-project.git
+Hi im Eric Barbosa Rocha
+Studying python
+9°A grade student
+Escola Castanheiras
 
